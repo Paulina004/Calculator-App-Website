@@ -1,0 +1,38 @@
+.main-background{
+    background-image: url(img/main_background.png);
+}
+.white-background{
+    background-color: white;
+}
+.thick-text{
+    font-weight: bold;
+}
+.btn-tweaks{
+    background-color: gray;
+    border-color: gray;
+    font-weight: bold;
+    font-size: 20px;
+}
+.padding-tweaks{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.border-tweaks{
+    border-left-width: 6px;
+    border-right-width: 6px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-left-color: gray;
+    border-right-color: gray;
+    box-shadow: 0 10px 20px 0 gray, 0 10px 20px 0 gray;
+}
+.answer-tweaks
+{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+h2
+{
+    text-align: center;
+}
